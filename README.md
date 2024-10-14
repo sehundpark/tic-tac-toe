@@ -4,6 +4,8 @@ A classic Tic-Tac-Toe game implemented with HTML, CSS, and JavaScript. This proj
 
 ## Live Demo
 
+![tictactoe](https://github.com/user-attachments/assets/644a043e-8d3d-4c2c-839f-6378cc1f8256)
+
 Play the game here: [Tic-Tac-Toe Demo](https://sehundpark.github.io/tic-tac-toe/)
 
 ## Features
